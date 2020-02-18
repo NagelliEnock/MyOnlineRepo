@@ -1,1 +1,2 @@
-This is my new file to be stored in GIT
+This is my new file to be stored in GIT.
+I am from Hyderabad, India.
